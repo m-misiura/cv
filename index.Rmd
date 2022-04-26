@@ -1,0 +1,182 @@
+---
+title: "Maciej Misiura;s CV"
+author: Mac Misiura
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Maciej Misura](headshot.jpeg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> maciekmisiura@gmail.com
+- <i class="fab fa-linkedin-in"></i> [LinkedIn](https://uk.linkedin.com/in/maciej-misiura-1a97681b8)
+- <i class="fa fa-phone"></i> +44 7790 597 206
+
+Interests {#interests}
+--------------------------------------------------------------------------------
+
+Bayesian Inference
+
+Interpretable Machine Learning 
+
+Quantification of Uncertainty for Deep Learning Models
+
+Data Science Process Frameworks
+
+
+Software {#software}
+--------------------------------------------------------------------------------
+
+**R** | <i class="fab fa-r-project"></i> (Tidyverse, Tidymodels, jags, Stan)
+
+**Python** | <i class="fab fa-python"></i> (NumPy, pandas, scikit-learn, Tensorflow)
+
+**SQL** | <i class="fas fa-database"></i>
+
+**GitHub** | <i class="fab fa-github"></i>
+
+**Markdown** | <i class="fas fa-markdown"></i>
+
+**MLflow**
+
+Main
+================================================================================
+
+Maciej Misiura {#title}
+--------------------------------------------------------------------------------
+
+### About
+
+PhD educated Data Scientist with an expertise in statistics and machine learning
+
+Work Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+[National Innovation Centre for Data](https://www.nicd.org.uk)
+
+Newcastle upon Tyne, UK
+
+2021 - Present
+
+- Developed machine learning solutions for private and public sector clients
+- Collaborated on several deep learning research projects in the context of automated lip reading, coreference resolution and low shot learning
+- Delivered teaching content covering key stages of a data science project:
+  - cleaning and wrangling, 
+  - exploratory data analysis, 
+  - modelling,
+  - deployment
+
+### Data Scientist Placement
+
+[Newcastle University](https://www.ncl.ac.uk) 
+
+Newcastle upon Tyne, UK
+
+2018 - 2019
+
+- Contracted to undertake an investigation into quantifying environmental impacts of the UK commercial pig production systems over the last two decades
+- Displayed strong analytical skills through the visualisation and interpretation of complex, commercial data
+- Delivered a 10,000-word written report outlining the main findings to the Agriculture and Horticulture Development Board, which is expected to inform future government policy on identifying effective strategies to minimise environmental impacts of raising livestock animals
+
+### Indirect Tax Analyst
+
+[Deloitte](https://www2.deloitte.com/uk/en.html)
+
+Newcastle upon Tyne, UK
+
+2015 - 2016
+
+- Delivered tailored-made tax advice to clients from a variety of sectors including education, automotive, engineering and charity
+- Improved technical writing skills by drafting engagement letters and client reports
+- Performed VAT costs and savings reviews
+- Demonstrated strong independent research skills and initiative by creating a large database of North East-based companies, which was utilised across regional offices for business development and client targeting
+- Developed an eye for detail during monthly case law presentations
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### PhD Applied Mathematics and Statistics
+
+[Newcastle University](https://www.ncl.ac.uk)
+
+Newcastle upon Tyne, UK
+
+2016 - 2021
+
+**Thesis**: *Mathematical and statistical modelling for a more efficient and sustainable pig production*
+
+- Investigated ways of improving environmental sustainability of commercial pig production systems through an interdisciplinary approach encompassing computational biology, precision agriculture, nutrtion, data analytics, systematic reviews and meta-analyses
+- Presented research on smart agriculture at large international conferences, including talks at [EAAP](https://hal.inrae.fr/hal-03039253) and [ASAS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6666733/)
+- Authored five scientific articles 
+- Awarded the 2018 BSAS Murray Black Award (£1,500) for an outstanding research proposal
+
+### Maths and Statistics MMathStat, 2:1
+
+[Newcastle University](https://www.ncl.ac.uk)
+
+Newcastle upon Tyne, UK
+
+2011 - 2015
+
+**Thesis**: *Bayesian Analysis of Paired Comparison Data*
+
+- Delivered a 5,000 word dissertation describing predictive models of basketball matches
+- Displayed strong analytical skills through extension applicaton of quantative approaches to a variety of complex problems, including analysis of healthcare data
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [Bayesian comparison of models for precision feeding and management in growing-finishing pigs](https://www.sciencedirect.com/science/article/pii/S1537511021002117?casa_token=2bG0rL6TM6IAAAAA:YnoDiWV3_EKfEwBPqhP32FLRexxMkTLMH50SEV1I_OKI69SfNK4Wkj_vgI63rrywCTl-p9grOQ)
+
+*Biosystems Engineering, 211, 205-218.*
+
+N/A
+
+2021 
+
+**Misiura, M. M.**, Filipe, J., Brossard, L., & Kyriazakis, I. 
+
+### [A Novel Estimation of Unobserved Pig Growth Traits for the Purposes of Precision Feeding Methods.](https://www.frontiersin.org/articles/10.3389/fvets.2021.689206/full)
+
+*Frontiers in Veterinary Science, 796.*
+
+N/A
+
+2021 
+
+**Misiura, M. M.**, Filipe, J., & Kyriazakis, I.
+
+### [How do pigs deal with dietary phosphorus deficiency?](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/how-do-pigs-deal-with-dietary-phosphorus-deficiency/D43FE124FB28EC9580D67CF14D339115)
+
+*British Journal of Nutrition, 124(3), 256-272.*
+
+N/A
+
+2020 
+
+**Misiura, M. M.**, Filipe, J., Walk, C. L., & Kyriazakis, I. 
+
+### [Do not neglect calcium: a systematic review and meta-analysis (meta-regression) of its digestibility and utilisation in growing and finishing pigs](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/do-not-neglect-calcium-a-systematic-review-and-metaanalysis-metaregression-of-its-digestibility-and-utilisation-in-growing-and-finishing-pigs/64EBFE14D0948F3509E504500DBF575E)
+
+*British Journal of Nutrition, 119(11), 1207-1219.*
+
+N/A
+
+2018 
+
+**Misiura, M. M.**, Filipe, J., Walk, C. L., & Kyriazakis, I. 
