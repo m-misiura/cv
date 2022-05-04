@@ -1,5 +1,5 @@
 ---
-title: "Maciej Misiura;s CV"
+title: "Maciej Misiura CV"
 author: Mac Misiura
 date: "`r Sys.Date()`"
 output:
