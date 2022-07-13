@@ -41,7 +41,7 @@ Software {#software}
 
 **R** | <i class="fab fa-r-project"></i> (Tidyverse, Tidymodels, jags, Stan)
 
-**Python** | <i class="fab fa-python"></i> (NumPy, pandas, scikit-learn, Tensorflow)
+**Python** | <i class="fab fa-python"></i> (NumPy, SciPy, pandas, scikit-learn, PyTorch,Tensorflow)
 
 **SQL** | <i class="fas fa-database"></i>
 
@@ -49,7 +49,7 @@ Software {#software}
 
 **Markdown** | <i class="fas fa-markdown"></i>
 
-**MLflow**
+**Databricks** | <i class="fa-solid fa-layer-group"></i>
 
 Main
 ================================================================================
@@ -72,13 +72,20 @@ Newcastle upon Tyne, UK
 
 2021 - Present
 
-- Developed machine learning solutions for private and public sector clients
-- Collaborated on several deep learning research projects in the context of automated lip reading, coreference resolution and low shot learning
-- Delivered teaching content covering key stages of a data science project:
-  - cleaning and wrangling, 
-  - exploratory data analysis, 
-  - modelling,
-  - deployment
+- Developed data science solutions for private and public sector clients, including:
+  - classification model, which can be run end-to-end to rank prospective customers of a leading business offering services to estate agents
+  - interpretable tree-ensemble and uplift models to understand customer churn and improve retention rate for a large software company
+  - recomendation system to facilitate onboarding of new customers of an international supplier of enterprise resource planning software 
+
+- Produced written reports summarising research projects conducted for [The Alan Turing Institute](https://www.turing.ac.uk) on: 
+  - evaluating the performance of different uncertainty quantification methods with a BERT language model
+  - comparing the uncertainty-unaware low shot learning models to their uncertainty-aware, Bayesian counterparts
+  - identifying the state-of-the-art approaches to key word identification in video footage
+
+- Created and delivered teaching content to clients on: 
+  - classification on imbalanced data
+  - interpretable machine learning
+  - causal inference in machine learning
 
 ### Data Scientist Placement
 
@@ -137,6 +144,7 @@ Newcastle upon Tyne, UK
 
 - Delivered a 5,000 word dissertation describing predictive models of basketball matches
 - Displayed strong analytical skills through extension applicaton of quantative approaches to a variety of complex problems, including analysis of healthcare data
+
 
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
