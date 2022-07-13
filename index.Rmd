@@ -87,8 +87,6 @@ Newcastle upon Tyne, UK
   - interpretable machine learning
   - causal inference in machine learning
 
--  Facilitated meetings with key leaders and collaborated with project teams to ensure timely decision-making and effective communication between project stakeholders at all levels
-
 ### Data Scientist Placement
 
 [Newcastle University](https://www.ncl.ac.uk) 
