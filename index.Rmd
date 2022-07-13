@@ -72,10 +72,10 @@ Newcastle upon Tyne, UK
 
 2021 - Present
 
-- Developed data science solutions for private and public sector clients, including:
+- Led and worked on teams tasked with developing data science solutions including:
   - classification model, which can be run end-to-end to rank prospective customers of a leading business offering services to estate agents
   - interpretable tree-ensemble and uplift models to understand customer churn and improve retention rate for a large software company
-  - recommendation system to facilitate onboarding of new customers of an international supplier of enterprise resource planning software 
+  - recommendation system to facilitate onboarding of new customers of a large software company
 
 - Produced written reports summarising research projects conducted for [The Alan Turing Institute](https://www.turing.ac.uk) on: 
   - evaluating the performance of different uncertainty quantification methods with a BERT language model
@@ -86,6 +86,8 @@ Newcastle upon Tyne, UK
   - classification on imbalanced data
   - interpretable machine learning
   - causal inference in machine learning
+
+-  Facilitated meetings with key leaders and collaborated with project teams to ensure timely decision-making and effective communication between project stakeholders at all levels
 
 ### Data Scientist Placement
 
